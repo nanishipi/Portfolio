@@ -1,0 +1,17 @@
+body{
+    background-color: #63D1F4;
+}
+
+#maincard{
+    background-color: #00BFFF;
+    margin-top: 7.5%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    padding: 20px;
+    border: 10px solid white;
+    border-radius: 50px;
+    height: 500px;
+    width: 1200px;
+    background-image: url(/images/Portfolio\ Card\ Image.png);
+    background-size: cover;
+}
